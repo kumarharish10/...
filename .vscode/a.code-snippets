@@ -11,7 +11,7 @@
 	// 	"prefix": "log",
 	// 	"body": [
 	// 		"console.log('$1');",
-	// 		"$2"
+	// 		"$999"
 	// 	],
 	// 	"description": "Log output to console"
 	// }
